@@ -109,4 +109,4 @@ Python, pandas, NumPy, SciPy, Matplotlib, Jupyter Notebook
 
 ## Author
 
-**[Your name]** | Data Science and AI | [LinkedIn link] | [email]
+**[Saheed Oyeniyi Oyetunji]** | Data Science and AI |  | [tunjiassorted@gmail.com]
